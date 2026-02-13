@@ -1,0 +1,38 @@
+Ryan Flor Lumapas
+Purok-2 Brgy. 37-D Mabini Boulevard, Davao City
+ryanlumapas@outlook.com +63 9912109201
+Summary	Enthusiastic and quick-learning Developer with a solid foundation in modern development technologies, including Flutter, Laravel, and WordPress. Experienced in Vibe Coding using Cursor AI to rapidly prototype, iterate, and deliver functional solutions. Demonstrated ability to adapt to new frameworks and efficiently develop applications from mobile apps to corporate websites. Seeking an entry-level position to further develop my programming skills and contribute to an innovative technology team.
+
+Career history	Flutter Developer (Junior) Yellowsun Technologies | November 2025 – Present (3 months)
+	•	Utilized Vibe Coding with Cursor AI to accelerate development of a multi-tenant emergency response app (Flutter/Dart) for reporting medical, police, fire, and disaster incidents.
+	•	Integrated real-time features: Agora chat/video calls, Google Maps location sharing, and Firebase push notifications.
+	•	Implemented Clean Architecture with BLoC, GetIt, SQLite, and REST API services for ticket/DTR/contact management.
+Laravel Developer (Full-stack) ARCIMED Nutripharma | Jun 2025 – Present (7 months)
+	•	Engineered a full-stack Laravel platform for e-commerce with integrated multi-tier team and commission management using Vibe Coding methodologies for rapid backend iteration.
+	•	Designed and optimized backend systems (batch processing, job queues) to automate complex, large-scale payout calculations.
+	•	Developed a secure administrative dashboard with role-based permissions, financial processing, reporting exports, and a loyalty program, leveraging AI-assisted development for efficient feature rollout.
+
+
+
+Laravel Developer (Full-stack) Money Lending App (Private Individual) | Mar 2025 – May 2025 (3 months)
+	•	Engineered and maintained backend services for a financial lending application using Laravel, with AI-powered development workflows to streamline authentication, validation, and transaction logic.
+	•	Assisted in database design and management to ensure data integrity and system efficiency.
+WordPress Developer (Full-stack) Columbia Computer Center Davao Inc. | Jan 2013 – Dec 2020 (8 years)
+	•	Designed, developed, and managed the company's WordPress website, ensuring high performance and availability.
+	•	Customized themes and plugins to meet specific business requirements and enhance site functionality.
+	•	Provided ongoing website maintenance, including updates, security patches, and content management.
+WordPress Developer (Full-stack) Rotary District 3860 | Jan 2012 – Dec 2018 (7 years)
+	•	Built and maintained the official website for the non-profit organization, focusing on clear communication of events and initiatives.
+	•	Managed web hosting, domain registration, and site security.
+	•	Implemented design updates and new content sections as requested by the leadership team.
+
+Skills	Development Methodologies: Vibe Coding, AI-Assisted Development (Cursor AI), CI/CD, Clean Architecture, REST API Design
+Frameworks & Languages: Laravel, Flutter, PHP, Dart, JavaScript, Tailwind CSS
+Databases & Tools: MySQL, SQLite, PhpMyAdmin, Firebase, Git, CPanel
+Platforms & CMS: WordPress, Mobile App Development (Android), Full-Stack Web Development
+Languages	Cebuano, English, Filipino
+Education	Bachelor of Science (Computer Science)		        University of Mindanao 
+I did not finish my college.
+Reference	Victor Escamillan							        Mobile Developer							  +63997 6697 222							 thortechnologysolutions@gmail.com
+
+
