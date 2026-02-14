@@ -793,3 +793,14 @@ img {
     font-size: 0.8em;
     opacity: 0.6;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.rounded-corners {
+    border-radius: 25px;
+}
